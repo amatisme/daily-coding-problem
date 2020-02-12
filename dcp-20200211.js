@@ -2,7 +2,7 @@
 at index i of the new array is the product of all the numbers in the
 original array except the one at i. */
 
-// define array
+// define set of numbers
 let numbers = [1,2,3,4,5];
 
 // iterate set

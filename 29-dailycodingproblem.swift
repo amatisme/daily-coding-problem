@@ -5,7 +5,7 @@
 //  and an integer line length k, return a list of strings which
 //  represents each line, fully justified.
 //
-//  Created by Lap on 2020-03-10.
+//  Created by Amatisme on 2020-03-10.
 //
 
 import Foundation

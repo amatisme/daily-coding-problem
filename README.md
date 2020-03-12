@@ -1,5 +1,4 @@
 # daily-coding-problem
-My ES6 solutions for coding challenges from dailycodingproblem.com
+Solutions for common interview coding challenges from dailycodingproblem.com. Solutions with be written in either Javascript(ES6), Node, PHP or Swift. Some solutions will be cloud hosted FaaS on Google Cloud Platform. Other solutions will be available on request.
 
-Official solutions shown for comparison. Official solutions
-will likely be on Python.
+- [01-dailycodingproblem (ES6)](https://google.com)
